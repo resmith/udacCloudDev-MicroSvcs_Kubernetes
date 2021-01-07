@@ -1,0 +1,1 @@
+kubectl apply -f reverseProxy_deployment
